@@ -1,0 +1,8 @@
+puts true    ? "true" : "false"
+puts false   ? "true" : "false"
+puts nil     ? "true" : "false"
+puts 1       ? "true" : "false"
+puts 0       ? "true" : "false"
+puts "false" ? "true" : "false"
+puts ""      ? "true" : "false"
+puts [] ? "true" : "false"
